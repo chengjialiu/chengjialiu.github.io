@@ -17,10 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student in the Department of Electrical & Computer Engineering in Texas A&M University, advised by [Prof. Jiang Hu](https://engineering.tamu.edu/electrical/profiles/jhu.html), [Prof. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html), and [Prof. Michael Quinn](https://engineering.tamu.edu/cse/profiles/quinn-michael.html). Currently, my research focuses on fixing the design verification coverage holes by leveraging machine learning techniques. I am also interested in the applications of large language models (LLMs) in hardware design verification.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jiaotong University, China, in 2020. During my undergraduate study, I worked with [Prof. Liangjun Ke](http://gr.xjtu.edu.cn/web/keljxjtu) on proposing an algorithm based on vision sensor and laser SLAM to perform positioning and mapping, solving the problems of insufficient positioning accuracy and inaccurate map construction of unmanned aerial vehicle (UAV). I also worked with [Prof. Jianfu Cao](https://gr.xjtu.edu.cn/en/web/cjf) on the applications of monocular camera and 2D lidar mixed simultaneous localization and mapping (SLAM). Also I was a student from the [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) of Xi'an Jiaotong University.
 
+[comment]: <> (My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+)
+
+[comment]: <> 
+(
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -45,14 +50,18 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2028.06 (now)*, Ph.D in Computer Engineering, Texas A&M University, College Station, TX, US.
+- *2016.09 - 2020.09*, B.E. in Automation, Xi'an Jiaotong University, Xi'an, China.
 
+[comment]: <> (
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.03 - 2020.12*, Xi'an Jiaotong University, [The State Key Laboratory of Multiphase Flow in Power Engineering](http://mfpe.xjtu.edu.cn/), Xi'an, China.
+- *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
