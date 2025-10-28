@@ -25,7 +25,6 @@ Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jia
 - *2023.09 - 2028.06 (now)*, Ph.D in Computer Engineering, Texas A&M University, College Station, TX, US.
 - *2016.09 - 2020.09*, B.E. in Automation, Xi'an Jiaotong University, Xi'an, China.
 
-{%# 💻 Internships %}
 
 
 # 📝 Publications
